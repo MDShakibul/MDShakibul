@@ -22,8 +22,8 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/developer-shakibul-islam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/developer-shakibul-islam/" height="30" width="40" /></a>
-<a href="/https://stackoverflow.com/users/19700634/shakibul-islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19700634/shakibul-islam" height="30" width="40" /></a>
-<a href="/https://www.facebook.com/shakibul.islam.3781995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shakibul.islam.3781995" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19700634/shakibul-islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19700634/shakibul-islam" height="30" width="40" /></a>
+<a href="https://www.facebook.com/shakibul.islam.3781995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shakibul.islam.3781995" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shakib6610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/shakib6610" height="30" width="40" /></a>
 </p>
 
