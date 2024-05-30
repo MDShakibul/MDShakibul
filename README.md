@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdshakibul" alt="mdshakibul" /></a> </p>
 
-- 🔭 I’m currently working on [Mojaru](https://mojaru.com/)
+- 🔭 I’m currently working on [Jomma Limited](https://jomma.online/)
 
 - 🌱 I’m currently learning **Postgres sql, Redis, Docker, AWS**
 
